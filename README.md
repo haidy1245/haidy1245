@@ -5,7 +5,7 @@
 <h3 align="center">I am passionate about data and its influence on fact and insight-driven decision-making. It is a beautiful feeling when you can predict what's coming and create an alternate plan for it and it works out brilliantly. I love to collaborate with people for brainstorming to help the business reach its highest potential by choosing the best possible decisions.</h3>
 
 
-- 🌱 I’m currently learning **Machine Learning using Python and Analytics.**
+- 🌱 I’m currently learning **Machine Learning using Python.**
 
 - 📫 How to reach me **haidermomin99@gmail.com**
 

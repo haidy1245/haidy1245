@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Hyder Momin</h1>
 <h3 align="center">I am passionate about data and its influence on fact and insight-driven decision-making. It is a beautiful feeling when you can predict what's coming and create an alternate plan for it and it works out brilliantly. I love to collaborate with people for brainstorming to help the business reach its highest potential by choosing the best possible decisions.</h3>
-<img align="right" alt="Coding" width="400" src="(https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)">
+
 
 - 🌱 I’m currently learning **Machine Learning using Python and Analytics.**
 
